@@ -1,6 +1,7 @@
 name: Build Binary
 
 on:
+  workflow_dispatch:
   workflow_call:
 
 jobs:
